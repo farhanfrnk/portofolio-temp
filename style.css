@@ -376,6 +376,20 @@ body{
   height: 100%;
 }
 
+.hero .left .code{
+  font-size: 50px;
+  color: #7D5A50;
+  font-weight: 800;
+}
+
+.hero .left .code.code-1{
+  margin-bottom: 50px;
+}
+
+.hero .left .code.code-2{
+  margin-top: 50px;
+}
+
 .hero .left h1{
   font-size: 50px;
   font-weight: 600;
@@ -399,7 +413,10 @@ body{
   margin-top: 24px;
   text-align: center;
   line-height: 24px;
+}
 
+.hero .left .desc span{
+  color: #7D5A50;
 }
 
 .hero .left .link {
