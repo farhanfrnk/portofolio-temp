@@ -255,6 +255,15 @@ body{
   .dots {
     margin: 5vh 0;
   }
+
+  .slide h1{
+    font-size: 24px;
+  }
+
+  .slide p{
+    font-size: 14px;
+    width: 90%;
+  }
 }
 
 /* End Side Section */
